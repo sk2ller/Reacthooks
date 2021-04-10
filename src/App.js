@@ -4,7 +4,7 @@ import MovieList from './MovieList';
 
 function App() {
   return (
-    <div className="App" style={{backgroundColor:"gray"}}>
+    <div className="App" style={{backgroundColor:"#1b1717"}}>
       <MovieList />
     </div>
   );
